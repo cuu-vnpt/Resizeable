@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Resizeable/bin/Debug/net7.0/Resizeable
+/Users/macos/Desktop/Operator/Resizeable/bin/Debug/net7.0/Resizeable.deps.json
+/Users/macos/Desktop/Operator/Resizeable/bin/Debug/net7.0/Resizeable.runtimeconfig.json
+/Users/macos/Desktop/Operator/Resizeable/bin/Debug/net7.0/Resizeable.dll
+/Users/macos/Desktop/Operator/Resizeable/bin/Debug/net7.0/Resizeable.pdb
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.dll
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/refint/Resizeable.dll
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.pdb
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/Resizeable.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Resizeable/obj/Debug/net7.0/ref/Resizeable.dll
